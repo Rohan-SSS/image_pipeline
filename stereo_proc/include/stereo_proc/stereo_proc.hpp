@@ -2,7 +2,7 @@
 #define STEREO_PROC__STEREO_PROC_HPP_
 
 #include <string>
-#include <elas_matching/elas_matching.hpp>
+#include <stereo_proc/elas_matching.hpp>
 #include "image_geometry/stereo_camera_model.h"
 #include <image_proc/processor.hpp>
 #include <stereo_msgs/msg/disparity_image.hpp>

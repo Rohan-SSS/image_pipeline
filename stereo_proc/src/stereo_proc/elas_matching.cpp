@@ -1,5 +1,5 @@
-#include "elas_matching/elas_matching.hpp"
-#include "elas.h"
+#include "stereo_proc/elas_matching.hpp"
+#include "libelas/elas.h"
 #include <opencv2/imgproc.hpp>
 
 namespace cv
